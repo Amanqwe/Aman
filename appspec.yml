@@ -4,6 +4,8 @@ files:
   - source: /index.html
     destination: /var/www/html/Wordpress
     
+#     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
+
 # hooks:
 #   BeforeInstall:
 #     - location: scripts/install_dependencies
